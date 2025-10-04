@@ -3,6 +3,10 @@ ssh -i %USERPROFILE%\.ssh\mnsaverkey root@103.90.224.70
 ```
 
 ```bash
+ssh -i %USERPROFILE%\.ssh\moniesaver_sshkey moniesaver@103.90.224.70
+```
+
+```bash
 sqlcmd -S localhost -U RootAdmin -P 'qqMZ4aj2QYxp1n14pjXh'
 ```
 
